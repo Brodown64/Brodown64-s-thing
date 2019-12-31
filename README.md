@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<!doctype html> 
+<html>
 
-You can use the [editor on GitHub](https://github.com/Brodown64/Brodown64-s-thing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    <head>
+    	<title>Brodown64's crap website</title>
+    	<style type="text/css">
+    		body {
+    			background: grey; 
+    		}
+    	</style>
+    </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <body>
+     <strong>Welcome!</strong>
+      <p> This is where all optimisim dies. I am starting out web development, capitalisim for all! </p>
+     </body>
+</html> 
+<ul> 
+ <li><a href="https://www.bing.com/">Death</a></li>
+<div>🐱‍👤</div>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brodown64/Brodown64-s-thing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>About me</h2>
+<p>I do stuff sometimes, I do pixel art if you want to see that. I like sports. I am also a huge history buff, so there's that.</p>
+<h2>Links and stuff</h2>
+<li><a href="https://discord.gg/kfFdZsk">Discord Server</li>
+<li><a href="https://sites.google.com/s/19PWZstCE4JsLwTmxpKicADhkeFqkXTEE/p/1vYU3mr2IoiOVUaggMmWEeFkMeR25HCcu/edit">Sprite gallary</li>
